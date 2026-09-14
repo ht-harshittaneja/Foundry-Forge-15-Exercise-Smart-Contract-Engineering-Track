@@ -10,4 +10,4 @@ ensure the logic works and edge cases are handled.
 - `forge test`
 - `assertEq`
 - `expectRevert`
-- Test coverage
+- `Test coverage`
