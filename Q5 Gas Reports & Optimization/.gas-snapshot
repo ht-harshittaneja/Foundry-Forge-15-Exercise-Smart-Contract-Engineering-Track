@@ -1,0 +1,2 @@
+GasOptimizationTest:testBatchDistribution() (gas: 143273)
+GasOptimizationTest:testPayIndividually() (gas: 183604)
