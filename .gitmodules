@@ -1,0 +1,3 @@
+[submodule "Q7 Managing Dependencies/lib/openzeppelin-contracts"]
+	path = Q7 Managing Dependencies/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
