@@ -2,7 +2,7 @@
 
 ## Problem
 
-Build a mintable token using OpenZeppelin contracts. Install and manage external dependencies using Foundry and configure imports correctly.
+Build a mintable token using OpenZeppelin. Learn to install and manage dependencies cleanly.
 
 ## Concepts
 

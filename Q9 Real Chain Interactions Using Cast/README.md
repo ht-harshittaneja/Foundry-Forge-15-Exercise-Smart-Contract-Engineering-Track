@@ -2,7 +2,7 @@
 
 ## Problem
 
-Deploy an NFT contract, mint tokens, and read token metadata directly from the terminal using Foundry's `cast` commands.
+Deploy an NFT contract, mint tokens, and read metadata all using terminal commands.
 
 ## Concepts
 

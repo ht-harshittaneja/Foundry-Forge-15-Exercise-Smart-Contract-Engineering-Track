@@ -2,7 +2,7 @@
 
 ## Problem
 
-Build a simple auction contract where users can place bids and settle the auction after a specified deadline. Write tests using Foundry cheatcodes to simulate time, verify event emissions, and validate time-based logic.
+Create a simple auction contract where users bid and settle based on time. Use cheatcodes to simulate time and events.
 
 ## Concepts
 

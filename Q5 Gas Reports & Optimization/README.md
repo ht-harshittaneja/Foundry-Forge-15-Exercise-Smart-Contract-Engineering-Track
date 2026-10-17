@@ -2,7 +2,7 @@
 
 ## Problem
 
-Build a contract that sends ETH to multiple users and optimize it for low gas consumption. Use Foundry gas tools to benchmark and compare gas usage before and after optimization.
+Send ETH to multiple users and optimize for low gas consumption. Benchmark improvements using Foundry gas tools.
 
 ## Concepts
 

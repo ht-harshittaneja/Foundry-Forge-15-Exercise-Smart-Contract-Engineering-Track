@@ -2,8 +2,7 @@
 
 ## Problem
 
-Build a simple bank where users deposit and withdraw. Write tests to
-ensure the logic works and edge cases are handled.
+Build a simple bank where users deposit and withdraw. Write tests to ensure the logic works and edge cases are handled.
 
 ## Concepts
 

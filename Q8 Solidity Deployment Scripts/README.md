@@ -2,7 +2,7 @@
 
 ## Problem
 
-Build a voting contract where proposals can be added and users can vote on them. Write a Solidity deployment script to automate the deployment process and broadcast transactions to a network.
+Deploy a voting contract where proposals can be added and voted on, using a Solidity script to automate deployment.
 
 ## Concepts
 

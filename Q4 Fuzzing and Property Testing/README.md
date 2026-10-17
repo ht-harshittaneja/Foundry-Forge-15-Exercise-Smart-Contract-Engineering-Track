@@ -2,7 +2,7 @@
 
 ## Problem
 
-Build a simple 1:1 token swap where users can swap Token A for Token B at a fixed 1:1 rate. Write fuzz and invariant tests to ensure the swap works correctly for any valid input and the contract maintains its expected properties.
+Implement a 1:1 token swap and validate it works for any valid input using fuzz tests.
 
 ## Concepts
 
